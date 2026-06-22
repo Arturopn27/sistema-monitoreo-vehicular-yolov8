@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+videos/*.mp4
+capturas/*.png
+capturas/*.jpg
+capturas/*.jpeg
+
+runs/
+.ultralytics/
